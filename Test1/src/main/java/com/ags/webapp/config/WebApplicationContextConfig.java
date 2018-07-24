@@ -25,7 +25,7 @@ import org.springframework.web.servlet.view.tiles3.TilesViewResolver;
  *  che saranno nel package com.ags.webapp*/
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "com.xantrix.webapp")
+@ComponentScan(basePackages = "com.ags.webapp")
 public class WebApplicationContextConfig implements WebMvcConfigurer
 {
 	

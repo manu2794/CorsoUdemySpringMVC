@@ -1,5 +1,7 @@
 package com.ags.webapp.config;
 
+/* Configurazione DispatcherServlet 100% Java */
+
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
